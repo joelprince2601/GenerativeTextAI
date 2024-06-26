@@ -1,0 +1,41 @@
+React Frontend Directory Structure
+react-placeholder-animation/
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+├── src/
+│   ├── App.js
+│   ├── App.css
+│   ├── index.js
+│   └── serviceWorker.js
+├── package.json
+├── .gitignore
+└── README.md
+
+
+
+Spring Boot Backend Directory Structure
+spring-boot-backend/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── example/
+│   │   │           └── demo/
+│   │   │               ├── DemoApplication.java
+│   │   │               ├── TextController.java
+│   │   │               └── WebConfig.java
+│   │   └── resources/
+│   │       ├── application.properties
+│   │       └── static/
+│   │       └── templates/
+│   └── test/
+│       └── java/
+│           └── com/
+│               └── example/
+│                   └── demo/
+├── mvnw
+├── mvnw.cmd
+├── pom.xml
+└── README.md
+
